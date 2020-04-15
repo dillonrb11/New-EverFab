@@ -15,7 +15,7 @@ import AddFileType from "./AddFileType";
 import List from "@material-ui/core/List";
 import ListItem from "@material-ui/core/ListItem";
 import ListItemText from "@material-ui/core/ListItemText";
-import Favorites from "./Favorites"
+import Favorites from "./Favorites";
 
 export function App(props) {
   const [drawer_open, setDrawerOpen] = useState(false);
